@@ -1,4 +1,4 @@
-/* File Copy: Write a C program to copy a file using file operations*/
+/*1. File Copy: Write a C program to copy a file using file operations*/
 #include <stdio.h>
 
 
